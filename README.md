@@ -56,5 +56,3 @@ A dedicated jigging system was designed for accurate and repeatable assembly, in
 
 > ⚠️ Note: Rear impact safety factor is slightly below target, suggesting scope for reinforcement in future iterations.
 
-## 📂 Repository Structure
-
